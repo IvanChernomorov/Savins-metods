@@ -1,0 +1,8 @@
+C:\Users\super\source\repos\Swen\Swen\bin\Debug\Swen.exe.config
+C:\Users\super\source\repos\Swen\Swen\bin\Debug\Swen.exe
+C:\Users\super\source\repos\Swen\Swen\bin\Debug\Swen.pdb
+C:\Users\super\source\repos\Swen\Swen\obj\Debug\Swen.csproj.AssemblyReference.cache
+C:\Users\super\source\repos\Swen\Swen\obj\Debug\Swen.csproj.SuggestedBindingRedirects.cache
+C:\Users\super\source\repos\Swen\Swen\obj\Debug\Swen.csproj.CoreCompileInputs.cache
+C:\Users\super\source\repos\Swen\Swen\obj\Debug\Swen.exe
+C:\Users\super\source\repos\Swen\Swen\obj\Debug\Swen.pdb
